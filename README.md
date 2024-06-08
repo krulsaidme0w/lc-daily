@@ -1,1 +1,1 @@
-# lc-daily
+# leetcode daily tasks
